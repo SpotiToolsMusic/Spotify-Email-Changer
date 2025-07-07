@@ -5,7 +5,7 @@
 ## Spotify Email Changer V 1.6.0
 Spotify Email Changer will log in to your account, change your email to the one you choose, and save it.
 
-:white_check_mark:  **WEB API Based**  
+:white_check_mark:  WEB API Based  
 :white_check_mark:  **Option To Use Pre-Made Emails Or To Generate Them Based On Your Domains.**  
 :white_check_mark:  **Separate Accounts By Country**  
 :white_check_mark:  **Removes Invalid Accounts**  
