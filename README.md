@@ -14,6 +14,8 @@ Spotify Email Changer will log in to your account, change your email to the one 
 :white_check_mark:  **Login Via Cookies (Only need SP_DC)**  
 :white_check_mark:  **Supports HTTP Proxies**  
 
+**
+
 ![EMAIL_CHANGER](https://github.com/user-attachments/assets/70dfbe97-5a89-4459-8e08-20e3e0545e31)
 
 
