@@ -1,4 +1,4 @@
-## Contact Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
@@ -19,7 +19,7 @@ Spotify Email Changer will log in to your account, change your email to the one 
 ![EMAIL_CHANGER](https://github.com/user-attachments/assets/70dfbe97-5a89-4459-8e08-20e3e0545e31)
 
 
-## Contact Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
