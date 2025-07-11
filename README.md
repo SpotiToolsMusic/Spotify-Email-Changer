@@ -28,3 +28,4 @@ Spotify Email Changer will log in to your account, change your email to the one 
 This tool is intended for educational and ethical use only. It is strictly prohibited to use this tool to harm, harass, or misuse in violation of Spotify or any platform’s Terms of Service. The authors are not responsible for any misuse of this tool.
 
 ---
+ 
